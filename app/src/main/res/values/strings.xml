@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Room Database Java</string>
+    <string name="title_hint">Enter title</string>
+    <string name="node_hint">Enter node</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_update">Update</string>
+</resources>
